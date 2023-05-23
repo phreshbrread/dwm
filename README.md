@@ -1,0 +1,2 @@
+# dwm
+Custom dwm configs
